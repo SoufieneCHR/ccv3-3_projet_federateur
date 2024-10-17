@@ -7,4 +7,4 @@ Dans cette partie nous trouvons toute la documentation du projet:
 
 ci dessous une première représentation de l'architecture applicatif et l'organisation du repo
 
-![archi_repo](images/archi_repo.png)
+![archi_repo](image/archi_repo.png)
