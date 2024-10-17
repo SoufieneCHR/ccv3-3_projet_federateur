@@ -1,3 +1,4 @@
+# Avant Propos
 Dans cette partie nous trouvons toute la documentation du projet:
 - Cadre du projet
 - règle de fonctionement
@@ -23,7 +24,7 @@ L'objectif est d'exploiter les compétances aquises dans les autres unités d'ap
 et de les mettre en oeuvre dans un projet pratique.
 vous trouver la présentation du projet dans ce docment
 
-![pres_projet](pres_projet.pdf)
+[pres_projet](pres_projet.pdf)
 
 # Regle de fonctionnement
 Pour garantir le bon fonctionnement et en appliquant quelques best practices, il était conveu que:
@@ -32,3 +33,8 @@ Pour garantir le bon fonctionnement et en appliquant quelques best practices, il
 - chaque contribiteur doit créer sa propre branche pour avancer sur ces travaux. Une fois fini il demande un merge request sur develop.
 - chaque merge request est conditionné par minimum une validation d'une autre personne du projet.
 - Pour faciliter la maintenance, les administrateurs du répo sont exenorés de ces règles. Mais il est recommander d'appliquer ces bonnes pratiques dans les travaux quotidien et ne les pas baypasser que pour des raison de maintenance ou résoluton d'incident.
+
+# keep in touch
+Pour faciliter la communication autour du projet ces canaux sont disponibles:
+- teams: [24-ING CVV3-2 & 3-3](https://teams.microsoft.com/l/team/19%3AD0V1LtmzoJwq4fUDJtGfry6WjIZXAa6RHmziWxLYSl81%40thread.tacv2/conversations?groupId=e7a071ee-61e1-458e-9e1d-8f6f5e6d8f81&tenantId=76965b8b-46f0-455b-9d56-37a500464222)
+- slack: [slack_projet_fédérateur](https://join.slack.com/t/projetsiteams/shared_invite/zt-2so1ai8pi-~zOXJIwLxqPIKABGjpNXJA)
