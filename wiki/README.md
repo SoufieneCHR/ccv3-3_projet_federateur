@@ -36,5 +36,5 @@ Pour garantir le bon fonctionnement et en appliquant quelques best practices, il
 
 # keep in touch
 Pour faciliter la communication autour du projet ces canaux sont disponibles:
-- teams: ![24-ING CVV3-2 & 3-3](https://teams.microsoft.com/l/team/19%3AD0V1LtmzoJwq4fUDJtGfry6WjIZXAa6RHmziWxLYSl81%40thread.tacv2/conversations?groupId=e7a071ee-61e1-458e-9e1d-8f6f5e6d8f81&tenantId=76965b8b-46f0-455b-9d56-37a500464222)
-- slack: ![slack_projet_fédérateur](https://join.slack.com/t/projetsiteams/shared_invite/zt-2so1ai8pi-~zOXJIwLxqPIKABGjpNXJA)
+- teams: [24-ING CVV3-2 & 3-3](https://teams.microsoft.com/l/team/19%3AD0V1LtmzoJwq4fUDJtGfry6WjIZXAa6RHmziWxLYSl81%40thread.tacv2/conversations?groupId=e7a071ee-61e1-458e-9e1d-8f6f5e6d8f81&tenantId=76965b8b-46f0-455b-9d56-37a500464222)
+- slack: [slack_projet_fédérateur](https://join.slack.com/t/projetsiteams/shared_invite/zt-2so1ai8pi-~zOXJIwLxqPIKABGjpNXJA)
