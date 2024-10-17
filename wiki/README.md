@@ -24,7 +24,7 @@ L'objectif est d'exploiter les compétances aquises dans les autres unités d'ap
 et de les mettre en oeuvre dans un projet pratique.
 vous trouver la présentation du projet dans ce docment
 
-![pres_projet](pres_projet.pdf)
+[pres_projet](pres_projet.pdf)
 
 # Regle de fonctionnement
 Pour garantir le bon fonctionnement et en appliquant quelques best practices, il était conveu que:
