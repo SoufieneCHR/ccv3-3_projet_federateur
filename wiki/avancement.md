@@ -12,6 +12,6 @@
 - tester/valider les accès github (+ création de branche)
 - ajout des noms/prenoms aux sous-projets
 - proposition de solution pour chaque partie
-  -> un minimum de documentation
-  -> un minimum de code
- => une première évalution sur la contribution sur github
+  - un minimum de documentation
+  - un minimum de code
+- => une première évalution sur la contribution sur github
