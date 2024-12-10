@@ -1,4 +1,4 @@
-# Suite à notr séance du 09/12/2024, ci joint le CR de l'avancement sur le projet.
+# Suite à notre séance du 09/12/2024, ci joint le CR de l'avancement sur le projet.
 - avancement: 0%
 - affectation des équipes/sujets
 - causes:
@@ -14,4 +14,4 @@
 - proposition de solution pour chaque partie
   - un minimum de documentation
   - un minimum de code
-- => une première évalution sur la contribution sur github
+- => une première évalution basé sur la contribution sur github
