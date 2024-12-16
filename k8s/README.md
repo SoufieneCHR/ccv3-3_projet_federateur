@@ -1,1 +1,2 @@
 Dans cette partie nous trouvons les sources pour deplyer un cluster k8s
+Vous pouvez consulter le fichier Documentation K8S et choix techniques.pdf, où vous trouverez une description des choix techniques,des outils utilisés, et d'autres informations relatives au déploiement d'un cluster Kubernetes.
