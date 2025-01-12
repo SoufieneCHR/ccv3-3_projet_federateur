@@ -1,0 +1,19 @@
+Voici une description de votre architecture réseau basée sur les informations fournies :
+
+Description de l'architecture réseau :
+Adresse de la machine locale :
+
+IP : 192.168.56.1
+Cette machine locale agit comme le point de contrôle principal pour accéder à une machine virtuelle (VM) située sur un réseau distant.
+Adresse de la machine distante (VM) :
+
+IP : 192.168.5.1 (réseau principal de la machine distante)
+Adresse SSH : 192.168.5.128 (adresse attribuée pour les connexions SSH).
+Connexion SSH :
+
+Login : ssh manef@192.168.5.128
+Mot de passe : Opera02
+Cette configuration permet à l'utilisateur d'accéder à la machine distante via SSH pour effectuer des tâches d'administration ou de configuration.
+Fonctionnement global :
+La machine locale (192.168.56.1) utilise un réseau privé pour établir une connexion sécurisée avec la machine distante.
+Le protocole SSH est utilisé pour les connexions, garantissant la sécurité et la confidentialité des communications.
