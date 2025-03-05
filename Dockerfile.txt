@@ -1,0 +1,11 @@
+# Utiliser une image de base officielle d'Ubuntu
+FROM ubuntu:latest
+# Installer nginx
+RUN apt-get update && apt-get install -y nginx
+# Exposer le port 80
+EXPOSE 80
+# Lancer nginx en premier plan
+CMD ["nginx", "-g", "daemon off;"]
+
+
+
